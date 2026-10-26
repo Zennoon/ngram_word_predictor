@@ -1,0 +1,4 @@
+GPAC.txt
+**/__pycache__/
+*.py[cod]
+env
